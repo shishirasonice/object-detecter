@@ -1,0 +1,13 @@
+.link{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;;
+}
+
+.heading{
+    font-size: 25px;
+    background-color: cadetblue;
+}
