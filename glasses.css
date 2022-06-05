@@ -1,0 +1,22 @@
+#body_glasses{
+    background-size: cover;
+    position: center;
+}
+
+.header_glasses{
+    font-size: 25px;
+    background-color: purple;
+}
+
+.header_glasses:hover{
+    width: 140px;
+    background-color: indigo;
+}
+
+.back_glasses{
+    background-color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 65px;
+    float: right;
+}

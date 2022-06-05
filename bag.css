@@ -1,0 +1,23 @@
+#body_bag{
+    background-size: cover;
+    position: center;
+}
+
+.header_bag{
+    font-size: 25px;
+    background-color: rgb(14, 247, 138);
+    color: black;
+}
+
+.header_bag:hover{
+    width: 100px;
+    background-color: rgb(7, 143, 79);
+}
+
+.back_bag{
+    background-color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 65px;
+    float: right;
+}

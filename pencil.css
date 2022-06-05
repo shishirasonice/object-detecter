@@ -1,0 +1,21 @@
+#body_pencil{
+    background-size: cover;
+    position: center;
+}
+
+.header_pencil{
+    font-size: 25px;
+}
+
+.header_pencil:hover{
+    width: 100px;
+    background-color: rgb(44, 123, 155);
+}
+
+.back_pencil{
+    background-color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 65px;
+    float: right;
+}

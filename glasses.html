@@ -1,7 +1,7 @@
 <html>
 <head>
 
-	<title>Object Detection</title>
+	<title>glasses</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -11,23 +11,22 @@
 
   <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
   
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="glasses.css">
 </head>
 
-<body background="rainbow-img.webp">
+<body id="body_glasses" background="2nd-background.jpg">
   <center>
-    <h1 class="btn btn-succes heading">Object Detector Web App</h1>
-    <br><br><br><br><br><br>
-    
-    <li class="link"> <a href="wardrobe.html">Wardrobe</a></li>
-    <li class="link"> <a href="bag.html">Bag</a></li>
-    <li class="link"> <a href="pencil.html">Pencil</a></li>
-    <li class="link"> <a href="phone.html">Phone</a></li>
-    <li class="link"> <a href="glasses.html">Glasses</a></li>
-
+    <h1 class="btn btn-success header_glasses">glasses</h1>
+    <br><br>
+    <li class="back_glasses"><a href="index.html">Back</a></li>
+    <br>
+    <h3 class="btn btn-danger" id="status_glasses"></h2>
+    <br>
+    <h3 class="btn btn-success" id="number_of_objects_glasses"></h3>
+    <br>
   </center>
 
-  <script src="main.js"></script>
+  <script src="glasses.js"></script>
 
 </body>
 </html>

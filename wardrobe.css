@@ -1,0 +1,22 @@
+#body_wardrobe{
+    background-size: cover;
+    position: center;
+}
+
+.header_wardrobe{
+    font-size: 25px;
+    background-color: crimson;
+}
+
+.header_wardrobe:hover{
+    width: 150px;
+    background-color: darkred
+}
+
+.back_wardrobe{
+    background-color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 65px;
+    float: right;
+}

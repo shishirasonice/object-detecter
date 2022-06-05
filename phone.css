@@ -1,0 +1,22 @@
+#body_phone{
+    background-size: cover;
+    position: center;
+}
+
+.header_phone{
+    font-size: 25px;
+    background-color: pink;
+}
+
+.header_phone:hover{
+    width: 100px;
+    background-color: fuchsia;
+}
+
+.back_phone{
+    background-color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 65px;
+    float: right;
+}

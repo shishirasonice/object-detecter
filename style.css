@@ -1,6 +1,11 @@
+body{
+    background-size: cover;
+    position: center;
+}
+
+
 .link{
-    background-color: black;
-    color: white;
+    background-color: lightblue;
     font-size: 20px;
     border-radius: 10px;
     width: 300px;
@@ -11,3 +16,14 @@
     font-size: 25px;
     background-color: cadetblue;
 }
+
+.heading:hover{
+    width: 320px;
+    background-color: darkcyan;
+}
+
+.link:hover{
+    width: 330px;
+    font-size: 27px;
+}
+
